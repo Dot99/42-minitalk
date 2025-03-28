@@ -7,9 +7,6 @@
 	<h1><a href="subject.pdf">Subject</a><h2>
 </div>
 
-<div align="center">
-	<h1><a href="https://dot99.github.io/42-minitalk/index.html">Documentation</a></h1>
-</div>
 
 <div align="center">
 	<h1>How to run</h1>
